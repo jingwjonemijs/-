@@ -1,0 +1,22 @@
+love_site/
+├── manage.py
+├── love_site/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── static/
+│   ├── css/
+│   ├── js/
+│   └── images/
+└── apps/
+    ├── core/
+    │   ├── __init__.py
+    │   ├── models.py
+    │   ├── views.py
+    │   ├── urls.py
+    │   └── admin.py
+    └── templates/
+        ├── base.html
+        ├── index.html
+        └── admin/ 
