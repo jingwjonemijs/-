@@ -13,3 +13,5 @@
 
 9，然后在执行python manage.py makemigrations，然后在执行：python manage.py migrate ，在执行：python manage.py collectstatic，最后执行：python manage.py runserver 0.0.0.0:8000即可。
 10，后台在：http://网站:8000/admin，登录网站，设置你的QQ账号和名称，对方的QQ账号和名称。
+
+演示网站：http://woaini.gdata.fun:8000
